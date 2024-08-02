@@ -1,0 +1,33 @@
+2024-07-17 07:48:49,063 - root - INFO - Preprocessing complete. Check the 'preprocessed_data' directory for new images.
+2024-07-17 09:16:39,646 - root - INFO - Epoch 1/20, Average Error: 2.284259, Validation Accuracy: 0.1400, lr = 0.010000
+2024-07-17 10:44:36,854 - root - INFO - Epoch 2/20, Average Error: 2.161316, Validation Accuracy: 0.1400, lr = 0.010000
+2024-07-17 12:12:34,057 - root - INFO - Epoch 3/20, Average Error: 2.045571, Validation Accuracy: 0.2600, lr = 0.010000
+2024-07-17 13:40:28,036 - root - INFO - Epoch 4/20, Average Error: 1.875754, Validation Accuracy: 0.3200, lr = 0.010000
+2024-07-17 13:40:28,037 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-17 15:08:29,481 - root - INFO - Epoch 5/20, Average Error: 1.734762, Validation Accuracy: 0.4200, lr = 0.010000
+2024-07-17 15:08:29,483 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-17 16:36:24,222 - root - INFO - Epoch 6/20, Average Error: 1.696319, Validation Accuracy: 0.4800, lr = 0.010000
+2024-07-17 16:36:24,224 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-17 18:04:09,845 - root - INFO - Epoch 7/20, Average Error: 1.600712, Validation Accuracy: 0.4800, lr = 0.010000
+2024-07-17 19:32:01,698 - root - INFO - Epoch 8/20, Average Error: 1.513250, Validation Accuracy: 0.5600, lr = 0.010000
+2024-07-17 19:32:01,699 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-17 20:59:48,756 - root - INFO - Epoch 9/20, Average Error: 1.415334, Validation Accuracy: 0.5800, lr = 0.010000
+2024-07-17 20:59:48,757 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-17 22:27:56,487 - root - INFO - Epoch 10/20, Average Error: 1.427001, Validation Accuracy: 0.5800, lr = 0.010000
+2024-07-17 23:55:50,847 - root - INFO - Epoch 11/20, Average Error: 1.352209, Validation Accuracy: 0.6200, lr = 0.010000
+2024-07-17 23:55:50,849 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-18 01:23:42,158 - root - INFO - Epoch 12/20, Average Error: 1.360442, Validation Accuracy: 0.6800, lr = 0.010000
+2024-07-18 01:23:42,159 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-18 02:51:32,277 - root - INFO - Epoch 13/20, Average Error: 1.248996, Validation Accuracy: 0.6200, lr = 0.010000
+2024-07-18 04:19:20,252 - root - INFO - Epoch 14/20, Average Error: 1.298549, Validation Accuracy: 0.6600, lr = 0.010000
+2024-07-18 05:47:02,536 - root - INFO - Epoch 15/20, Average Error: 1.239230, Validation Accuracy: 0.7400, lr = 0.010000
+2024-07-18 05:47:02,537 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-18 07:14:52,051 - root - INFO - Epoch 16/20, Average Error: 1.221932, Validation Accuracy: 0.7800, lr = 0.010000
+2024-07-18 07:14:52,052 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-18 08:42:44,530 - root - INFO - Epoch 17/20, Average Error: 1.169269, Validation Accuracy: 0.8000, lr = 0.010000
+2024-07-18 08:42:44,531 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-18 10:11:13,023 - root - INFO - Epoch 18/20, Average Error: 1.149012, Validation Accuracy: 0.7000, lr = 0.010000
+2024-07-18 11:39:01,570 - root - INFO - Epoch 19/20, Average Error: 1.098537, Validation Accuracy: 0.8000, lr = 0.010000
+2024-07-18 13:06:48,140 - root - INFO - Epoch 20/20, Average Error: 1.106942, Validation Accuracy: 0.8200, lr = 0.010000
+2024-07-18 13:06:48,141 - root - INFO - Validation accuracy improved. Maintaining learning rate at 0.010000
+2024-07-18 13:15:03,032 - root - INFO - Accuracy on test set: 90.40%
