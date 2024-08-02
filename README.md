@@ -4,10 +4,10 @@ Created by: [Jake Phelan](https://github.com/jakephelan1)
 
 ![0E5785E6-837E-4EDA-9B51-6F97BC3A33A7_1_201_a](https://github.com/user-attachments/assets/1dfaec45-f881-4fd1-bcb0-dbe9b24e2051)
 
-## Project Description
+## Project Overview
 This project implements a facial recognition system using my custom machine learning library. It includes functionality for training a Convolutional Neural Network (CNN) on a dataset of facial images, as well as real-time face detection and recognition using a webcam feed.
 
-## Features
+### Features
 - Trains a custom CNN model on a dataset of facial images
 - Implements real-time face detection using OpenCV
 - Performs facial recognition on detected faces
@@ -16,7 +16,7 @@ This project implements a facial recognition system using my custom machine lear
 - Includes dropout layers for regularization
 - Implements early stopping and learning rate reduction for efficient training
 
-## Tools Used
+### Tools Used
 - **Python:** Primary programming language
 - **NumPy:** Numerical computing and array operations
 - **SciPy:** Matrix calculations for forward and backward passes 
