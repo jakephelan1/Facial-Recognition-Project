@@ -5,7 +5,7 @@ Created by: [Jake Phelan](https://github.com/jakephelan1)
 ![0E5785E6-837E-4EDA-9B51-6F97BC3A33A7_1_201_a](https://github.com/user-attachments/assets/1dfaec45-f881-4fd1-bcb0-dbe9b24e2051)
 
 ## Project Description
-This project implements a facial recognition system using convolutional neural networks (CNNs). It includes functionality for training the model on a dataset of facial images, as well as real-time face detection and recognition using a webcam feed.
+This project implements a facial recognition system using my custom machine learning library. It includes functionality for training a Convolutional Neural Network (CNN) on a dataset of facial images, as well as real-time face detection and recognition using a webcam feed.
 
 ## Features
 - Trains a CNN model on a dataset of facial images
@@ -19,10 +19,10 @@ This project implements a facial recognition system using convolutional neural n
 ## Tools Used
 - **Python:** Primary programming language
 - **NumPy:** Numerical computing and array operations
+- **SciPy:** Matrix calculations for forward and backward passes 
 - **OpenCV (cv2):** Image processing and computer vision tasks
 - **dlib:** Face detection and facial landmark prediction
-- **TensorFlow/Keras:** Deep learning framework for building and training the CNN
-- **scikit-learn:** Used for train-test split and other ML utilities
+- **scikit-learn:** Used for train-test split
 - **joblib:** Model serialization and deserialization
 - **imutils:** Convenience functions for OpenCV operations
 - **rembg:** Background removal from images
@@ -46,12 +46,13 @@ This project implements a facial recognition system using convolutional neural n
    ```
 
 4. **Download Required Data**
-   - Download the shape predictor file: `shape_predictor_68_face_landmarks.dat`
+   - Download the shape predictor file if not already downloaded: `shape_predictor_68_face_landmarks.dat`
    - Place it in the root directory of the project
 
 5. **Prepare Your Dataset**
    - Organize your facial images in the `data` directory
    - Each person should have their own subdirectory named after them
+   - For efficient recognition, the data should include 150-200 images of the persons face at different angles/lighting
 
 6. **Train the Model**
    ```bash
